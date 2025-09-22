@@ -1,5 +1,5 @@
 # 教程
-## 1.获取cookies
+## 1.获取cookie
 - 登录[教务系统](https://jxfw.gdut.edu.cn/login!welcome.action)
 - 按下F12, 进入 **网络** 模块, 按 **Ctrl+R** 刷新网页
   <img width="820" height="958" alt="image" src="https://github.com/user-attachments/assets/e612779e-45c2-492b-8a69-446dd224e910" />
